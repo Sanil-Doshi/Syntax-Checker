@@ -1,7 +1,7 @@
 # CPSC350_SP22_ASSIGNMENT4_DOSHI
 
 # Fun With Stacks
-This program takes a file as input and checks for syntax errors. It used a stack based on a doubly linked list
+This program takes a file as input and checks for syntax errors. It uses a stack based on a doubly linked list
 to make sure there are matching delimiters
 
 ## Identifying Information
