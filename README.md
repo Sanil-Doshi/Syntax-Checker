@@ -2,6 +2,10 @@
 This program takes a file as input and checks for syntax errors. It uses a stack based on a doubly linked list
 to make sure there are matching delimiters
 
+## Identifying Information
+* Sanil Doshi
+* Chapman University
+
 ## Source Files
 
 * main.cpp, GenStack.h, LinkedList.h, FileProcessor.h, FileProcessor.cpp, SyntaxChecker.h, SyntaxChecker.cpp
